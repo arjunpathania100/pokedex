@@ -1,0 +1,2 @@
+# pokedex
+mini frontend project
